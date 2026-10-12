@@ -1,0 +1,6 @@
+{
+  "name": "Jewellery Sales & Ledger Audit System",
+  "description": "Enterprise audit platform for Jewellery Sales & Ledger Excel verification, rate master lookups, UOM validation, and audit report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
